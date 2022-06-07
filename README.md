@@ -1,17 +1,10 @@
-# This repo contains accomplished projects using Python NetworkX library. 
+# This repo contains accomplished projects using Python NetworkX library
 1) Mid-term group project focused on IMDB actors network
 2) Individual Final course project analyzing the sentiment diffusion phenomena on traders network
 
-## 1) escription of the Mid-Term project
+## 1) Dscription of the Mid-Term project
 
-Students — working in groups — are supposed:
-
-1. to get access to a network dataset to put at the center of the MTP. There are
-two options to do that: reusing data available in digital repositories, e.g.,
-[SNAP](http://snap.stanford.edu/data/index.html) or
-[Kaggle](https://www.kaggle.com), or gathering data _ex-novo_ (e.g., using a
-crawler 🕸🕷). Inter-personal, inter-organizational, technological, and physical
-networks are admitted types of networks for the MTP
+1. Scrape the IMDB website to build and build a network model 
 
 2. to identify the relationhsip(s) included in the selected network dataset and
 to appreciate the economic, organizational, managerial, and/or social relevance
