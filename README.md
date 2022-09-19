@@ -4,7 +4,7 @@
 
 Please check the Jupyter notebook – it contains both presentation and the code! :)
 
-## 2) Background
+## Background
 
 The compound of technologies we use to call 'AI' promises to revolutionize many
 sectors. However, there is a substantial gap between what firms say they do with
